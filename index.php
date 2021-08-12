@@ -1,3 +1,3 @@
 <?php
-    echo "Hoal"
+    echo "Hoal 2";
 ?>
